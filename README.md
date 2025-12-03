@@ -1,16 +1,9 @@
-# dev_shakib_ui_customer
+# <font color="blue">Company User</font>
+
+# Customer List Page
 
 A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Output
+<img width="411" height="835" alt="image" src="https://github.com/user-attachments/assets/44ed1bd4-0f1d-4f9b-a920-28d1868159cd" />
+<img width="411" height="835" alt="image" src="https://github.com/user-attachments/assets/fa287968-72eb-4252-9c06-89f5477bde76" />
