@@ -5,4 +5,11 @@
 A new Flutter project.
 
 ## Output
-<img width="411" height="835" alt="image" src="https://github.com/user-attachments/assets/44ed1bd4-0f1d-4f9b-a920-28d1868159cd" />
+<img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/b064432b-2726-4da0-9b40-4193b1cdfb09" />
+
+# Crm Pipeline App
+
+A new Flutter project.
+
+## Output
+<img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/cabb125a-88e9-46cd-8315-80ebd3210267" />
