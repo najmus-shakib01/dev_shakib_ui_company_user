@@ -1,5 +1,6 @@
 // import 'package:dev_shakib_ui_customer/Company_User/customer_list.dart';
-import 'package:dev_shakib_ui_customer/Company_User/crm_pipeline.dart';
+// import 'package:dev_shakib_ui_customer/Company_User/crm_pipeline.dart';
+import 'package:dev_shakib_ui_customer/Company_User/customer_detail_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -15,7 +16,8 @@ class ReferableApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Company User Referral App',
       // home: const CustomerListPage(),
-      home: const CrmPipelineApp(),
+      // home: const CrmPipelineApp(),
+      home: const CustomerDetailApp(),
     );
   }
 }
