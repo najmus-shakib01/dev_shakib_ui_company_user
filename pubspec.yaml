@@ -1,7 +1,7 @@
 name: dev_shakib_ui_customer
 description: "A new Flutter project."
 
-publish_to: 'none' 
+publish_to: 'none'
 
 version: 1.0.0+1
 
@@ -27,3 +27,5 @@ flutter:
   assets:
     - assets/Company_User/icon/
     - assets/Company_User/image/
+    - assets/Crm_Pipeline/icon/
+    - assets/Crm_Pipeline/image/
