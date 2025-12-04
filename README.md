@@ -39,3 +39,12 @@ A new Flutter project.
 <img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/e08c70eb-624a-4f5d-8aea-6bd096f732c4" />
 <img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/f74f5d6d-6c3a-419d-a39d-90ffd7e8bf92" />
 <img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/d5f75a80-7fac-47b7-940f-5923bdb13141" />
+
+# Create User Admin Page
+
+A new Flutter project.
+
+## Output
+<img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/0b7cbbd9-17ce-4c51-9d80-e4ce8e8382f9" />
+<img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/3d9bbb35-930f-48ca-827d-3bc1f822af32" />
+<img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/3e99508d-ed92-42c3-a5b2-dda40a7c971f" />
