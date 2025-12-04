@@ -12,7 +12,7 @@ A new Flutter project.
 A new Flutter project.
 
 ## Output
-<img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/cabb125a-88e9-46cd-8315-80ebd3210267" />
+<img width="412" height="836" alt="image" src="https://github.com/user-attachments/assets/c96bfd71-d3e6-4afa-99bc-449040a53e5d" />
 
 # Customer Detail App
 
