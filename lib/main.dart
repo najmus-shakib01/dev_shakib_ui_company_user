@@ -2,7 +2,8 @@
 // import 'package:dev_shakib_ui_customer/Company_User/crm_pipeline.dart';
 // import 'package:dev_shakib_ui_customer/Company_User/customer_detail_screen.dart';
 // import 'package:dev_shakib_ui_customer/Company_User/profile_and_setting.dart';
-import 'package:dev_shakib_ui_customer/Company_User/referral_management_dashboard.dart';
+// import 'package:dev_shakib_ui_customer/Company_User/referral_management_dashboard.dart';
+import 'package:dev_shakib_ui_customer/Company_User/create_user_admin.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -21,7 +22,8 @@ class ReferableApp extends StatelessWidget {
       // home: const CrmPipelineApp(),
       // home: const CustomerDetailApp(),
       // home: const ProfileAndSettingApp(),
-      home: const ReferableManagementDashboard(),
+      // home: const ReferableManagementDashboard(),
+      home: const CreateUserAdminPage(),
     );
   }
 }
