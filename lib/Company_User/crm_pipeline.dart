@@ -203,42 +203,52 @@ class _StageTabBar extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return SizedBox(
-      height: 56,
-      child: Row(
-        children: [
-          Expanded(
-            child: _StageTabButton(
-              label: 'Pending',
-              isSelected: selectedStage == PipelineStage.pending,
-              onTap: () => onStageSelected(PipelineStage.pending),
+    return Container(
+      padding: const EdgeInsets.all(8),
+      decoration: BoxDecoration(
+        border: Border.all(
+          color: const Color.fromARGB(255, 237, 232, 221), 
+          width: 2, 
+        ),
+        borderRadius: BorderRadius.circular(12), 
+      ),
+      child: SizedBox(
+        height: 56,
+        child: Row(
+          children: [
+            Expanded(
+              child: _StageTabButton(
+                label: 'Pending',
+                isSelected: selectedStage == PipelineStage.pending,
+                onTap: () => onStageSelected(PipelineStage.pending),
+              ),
             ),
-          ),
-          const SizedBox(width: 12),
-          Expanded(
-            child: _StageTabButton(
-              label: 'Accepted',
-              isSelected: selectedStage == PipelineStage.accepted,
-              onTap: () => onStageSelected(PipelineStage.accepted),
+            const SizedBox(width: 12),
+            Expanded(
+              child: _StageTabButton(
+                label: 'Accepted',
+                isSelected: selectedStage == PipelineStage.accepted,
+                onTap: () => onStageSelected(PipelineStage.accepted),
+              ),
             ),
-          ),
-          const SizedBox(width: 12),
-          Expanded(
-            child: _StageTabButton(
-              label: 'Won',
-              isSelected: selectedStage == PipelineStage.won,
-              onTap: () => onStageSelected(PipelineStage.won),
+            const SizedBox(width: 12),
+            Expanded(
+              child: _StageTabButton(
+                label: 'Won',
+                isSelected: selectedStage == PipelineStage.won,
+                onTap: () => onStageSelected(PipelineStage.won),
+              ),
             ),
-          ),
-          const SizedBox(width: 12),
-          Expanded(
-            child: _StageTabButton(
-              label: 'Lost',
-              isSelected: selectedStage == PipelineStage.lost,
-              onTap: () => onStageSelected(PipelineStage.lost),
+            const SizedBox(width: 12),
+            Expanded(
+              child: _StageTabButton(
+                label: 'Lost',
+                isSelected: selectedStage == PipelineStage.lost,
+                onTap: () => onStageSelected(PipelineStage.lost),
+              ),
             ),
-          ),
-        ],
+          ],
+        ),
       ),
     );
   }
